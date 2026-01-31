@@ -73,6 +73,24 @@ Using the power budget equation and the parameters below, determine the attenuat
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
 
 ---
+### Tabulation of 10GB and 2.5GB
+
+<img width="909" height="1339" alt="image" src="https://github.com/user-attachments/assets/192d3cc1-4121-4fcd-9a05-9e5ed74cfef1" />
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/f102af3f-15ab-4032-94fb-f051c9352e80" />
+
+### Graph of 10GB
+### high 
+![WhatsApp Image 2026-01-31 at 2 25 24 PM](https://github.com/user-attachments/assets/0aa5e81f-fc6a-49b2-a252-b84e38c5f04f)
+ ### low 
+![WhatsApp Image 2026-01-31 at 2 25 52 PM](https://github.com/user-attachments/assets/b5865f21-e8bc-4fb4-9913-30b19b752a00)
+
+### Graph of 2.5 GB
+### high 
+![WhatsApp Image 2026-01-31 at 2 28 13 PM](https://github.com/user-attachments/assets/a69fb143-6850-4268-9d18-7efa408206a7)
+
+### low 
+![WhatsApp Image 2026-01-31 at 2 27 40 PM](https://github.com/user-attachments/assets/52cbbc06-dcf9-4253-abde-bb42b0812b12)
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
@@ -90,6 +108,9 @@ Your report should contain:
 - **Summary Table** for each simulation:
   | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
   |-------------------|-----------------------|----------|-----|
+
+  ### DESCRIPTION:
+Attenuation measurement at 2.5 Gbps and 10 Gbps evaluates the optical power loss in a fiber due to absorption, scattering, and connection losses. This measured attenuation determines the attenuation-limited fiber length, which is the maximum distance the signal can travel while still maintaining sufficient power at the receiver for reliable communication.
   
 
 - **Written Summary** of observations and explanations of differences.  
